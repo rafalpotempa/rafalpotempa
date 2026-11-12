@@ -17,8 +17,7 @@ I'm Rafał, an **ML Engineer** and **PhD student** at the Silesian University of
 
 ### 📊📈🐙 GitHub stats
 
-<img src="./profile/stats.svg" height="165" />
-<img src="./profile/top-langs.svg" height="165" />
+<img src="./profile/stats.svg" height="165" /><img src="./profile/top-langs.svg" height="165" />
 
 ### 📜📚✍️ Publications
 
