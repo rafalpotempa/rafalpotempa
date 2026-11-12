@@ -15,12 +15,10 @@ I'm Rafał, an **ML Engineer** and **PhD student** at the Silesian University of
 - 🌌 **Cosmic Web on quantum computers**: encoding and retrieving dark-matter density snapshots from cosmological simulations
 - 🧠 **Quantum machine learning**: quantum and hybrid neural networks for image classification
 
-### 🛠️📦🚀 Featured projects
+### 📊📈🐙 GitHub stats
 
-<a href="https://github.com/merQlab/geqie"><img src="./profile/pin-geqie.svg" /></a>
-<a href="https://github.com/rafalpotempa/qrnn-frqi"><img src="./profile/pin-qrnn-frqi.svg" /></a>
-<a href="https://github.com/rafalpotempa/clear-outside-inky-frame"><img src="./profile/pin-clear-outside-inky-frame.svg" /></a>
-<a href="https://github.com/rafalpotempa/fantastic-algorithms"><img src="./profile/pin-fantastic-algorithms.svg" /></a>
+<img src="./profile/stats.svg" height="165" />
+<img src="./profile/top-langs.svg" height="165" />
 
 ### 📜📚✍️ Publications
 
@@ -30,8 +28,3 @@ I'm Rafał, an **ML Engineer** and **PhD student** at the Silesian University of
 - **R. Potempa**, O. Nwobodo, K. Wereszczyński, K. Cyran, *General Quantum Image Representation Model and Framework*, ICCS (2024).
 - K. Werner, K. Wereszczyński, **R. Potempa**, K. A. Cyran, *Deep Learning as a Tool of Quantum Error Reduction in Quantum Image Processing*, preprint (2023). [DOI](https://doi.org/10.20944/preprints202310.0073.v1)
 - **R. Potempa**, S. Porębski, *Comparing Concepts of Quantum and Classical Neural Network Models for Image Classification Task*, Progress in Image Processing, Pattern Recognition and Communication Systems (2021). [DOI](https://doi.org/10.1007/978-3-030-81523-3_6)
-
-### 📊📈🐙 GitHub stats
-
-<img src="./profile/stats.svg" height="165" />
-<img src="./profile/top-langs.svg" height="165" />

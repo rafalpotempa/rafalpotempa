@@ -34,44 +34,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&hide=jupyter%20notebook
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&hide=jupyter%20notebook,tex,bibtex%20style
           path: profile/top-langs.svg
-          token: ${{ env.TOKEN }}
-          fail_on_error: true
-
-      - name: Generate pin card (geqie)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=merQlab&repo=geqie&hide_border=true
-          path: profile/pin-geqie.svg
-          token: ${{ env.TOKEN }}
-          fail_on_error: true
-
-      - name: Generate pin card (qrnn-frqi)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=rafalpotempa&repo=qrnn-frqi&hide_border=true
-          path: profile/pin-qrnn-frqi.svg
-          token: ${{ env.TOKEN }}
-          fail_on_error: true
-
-      - name: Generate pin card (clear-outside-inky-frame)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=rafalpotempa&repo=clear-outside-inky-frame&hide_border=true
-          path: profile/pin-clear-outside-inky-frame.svg
-          token: ${{ env.TOKEN }}
-          fail_on_error: true
-
-      - name: Generate pin card (fantastic-algorithms)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=rafalpotempa&repo=fantastic-algorithms&hide_border=true
-          path: profile/pin-fantastic-algorithms.svg
           token: ${{ env.TOKEN }}
           fail_on_error: true
 
